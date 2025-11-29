@@ -387,7 +387,7 @@ export default function PredictPage() {
                                 Estimated Bill & Smart Advice
                             </CardTitle>
                             <CardDescription>
-                                Based on TNB Regulatory Period 4 (RP4) 2025 rates.
+                                Prediction based on Peak Hour Usage (kWh)
                             </CardDescription>
                         </CardHeader>
                         <CardContent className="grid md:grid-cols-2 gap-8">
