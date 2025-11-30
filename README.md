@@ -51,9 +51,9 @@ Follow these steps to get the project running on your local machine.
     ```
 
 3.  **Set up environment variables:**
-    Create a `.env.local` file in the root directory and add your Gemini API key:
+    Modify the `.env.local` file in the root directory and add your Gemini API key:
     ```env
-    GEMINI_API_KEY=your_api_key_here
+    GEMINI_API_KEY="YOUR_GEMINI_API_KEY"
     ```
 
 4.  **Run the development server:**
