@@ -37,7 +37,7 @@ Follow these steps to get the project running on your local machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone [<repository-url>](https://github.com/JS-2005/C1G8_Snow-White-and-4-Dwarf_SourceCode.git)
     cd C1G8_Snow-White-and-4-Dwarf_SourceCode
     ```
 
