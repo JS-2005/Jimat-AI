@@ -38,7 +38,7 @@ Follow these steps to get the project running on your local machine.
 1.  **Clone the repository:**
     ```bash
     git clone <repository-url>
-    cd Jimat-AI
+    cd C1G8_Snow-White-and-4-Dwarf_SourceCode
     ```
 
 2.  **Install dependencies:**
